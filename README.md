@@ -2,45 +2,43 @@
 
 DC Enhancements built the DC Webhook app as a utility tool for sending webhooks to Discord. This SERVICE is provided by DC Enhancements at no cost and is intended for use as is, with support for ads and optional in-app purchases.
 
-This page is used to inform visitors regarding our policies concerning the collection, use, and disclosure of information. However, this application **does not collect, store, or share any personal user data.**
+This page is used to inform visitors regarding our policies concerning the collection, use, and disclosure of information.
 
 ### **Information Collection and Use**
-The DC Webhook app does not require users to provide any personally identifiable information. It functions solely as a tool to facilitate the sending of webhooks to Discord as per the user’s configuration. No user data is stored, transmitted, or shared by our servers.
+The DC Webhook app does not require users to provide personally identifiable information. However, it may collect certain technical data necessary for functionality, advertising, and analytics.
 
-The app does not utilize third-party services to collect user information.
+#### **Data Collected Automatically**
+While using our Service, certain data may be collected automatically by third-party services, including:
+- Device identifiers (e.g., Advertising ID for personalized ads)
+- Device model and operating system version
+- App interaction data (e.g., feature usage, error reports)
+- Log data such as IP address, timestamps, and crash reports
+
+### **Third-Party Services and Data Sharing**
+The app integrates with third-party services, which may collect and process user data as outlined in their respective privacy policies. These include:
+- **Google Play Services** ([Privacy Policy](https://www.google.com/policies/privacy/))
+- **AdMob** (for in-app advertising) ([Privacy Policy](https://support.google.com/admob/answer/6128543?hl=en))
+- **Google Play Billing** (for in-app purchases) ([Privacy Policy](https://play.google.com/about/privacy-security/))
+- **Firebase Analytics** (for app performance tracking) ([Privacy Policy](https://firebase.google.com/support/privacy))
+
+We do not store, sell, or share personally identifiable user data, but third-party SDKs may process data for ad personalization and analytics.
 
 ### **Ads and In-App Purchases**
-The DC Webhook app may display advertisements provided by third-party ad networks. These ads may collect limited information such as device identifiers to provide relevant advertising content. Additionally, the app may offer in-app purchases to unlock premium features. Any purchase-related information is processed securely through the respective app store (Google Play Store or Apple App Store), and we do not collect or store any payment details.
-
-### **Log Data**
-While using our Service, in case of an error or crash, minimal diagnostic data may be collected through third-party services such as Google Play Services. This may include device-specific information such as:
-- Device model
-- Operating system version
-- App usage statistics
-- Time and date of errors
-
-This information is used solely for debugging and improving the app experience and is not linked to any personally identifiable user data.
-
-### **Cookies**
-This Service does not use cookies.
-
-### **Service Providers**
-We do not employ any third-party services that collect or store user data. The app simply facilitates webhook communication between users and Discord without any data interception or processing.
+The DC Webhook app is monetized through advertisements and in-app purchases. Ads may be personalized based on collected device data unless users opt out of personalized advertising through their device settings. In-app purchases are processed securely through the respective app store, and we do not have access to payment details.
 
 ### **Security**
-We value your trust in using our application. Since no personal data is collected or stored, there are no risks related to data breaches. However, as with any online tool, users are encouraged to follow security best practices when configuring webhooks and using the app.
+We prioritize user privacy and employ industry-standard security measures to protect collected data. However, as no online service is entirely secure, users are encouraged to take precautions, such as reviewing permissions and managing privacy settings.
 
-### **Links to Other Sites**
-This Service may contain links to external sites such as Discord’s documentation or relevant third-party resources. Please note that these external sites are not operated by us, and we encourage you to review their privacy policies.
+### **Cookies**
+The app does not use cookies directly, but third-party services integrated within the app may use cookies or similar tracking technologies to enhance user experience and serve personalized ads.
 
 ### **Children’s Privacy**
-This Service does not address anyone under the age of 13. However, since no personal data is collected, there is no risk of user data exposure. If you have concerns about children using this app, we recommend reviewing Discord’s own privacy policies regarding webhook usage.
+This Service is not intended for children under 13. We do not knowingly collect data from children. If a parent or guardian believes their child has provided personal information, they should contact us for immediate removal.
 
 ### **Changes to This Privacy Policy**
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify users of any significant changes by updating this Privacy Policy within the app or on our official website.
+We may update our Privacy Policy periodically. Any significant changes will be posted within the app and/or on our website. Continued use of the app after changes are made constitutes acceptance of the revised policy.
 
 This policy is effective as of 2024-02-20.
 
 ### **Contact Us**
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at dcenhancements@gmail.com.
-
+If you have any questions or concerns about our Privacy Policy, contact us at dcenhancements@gmail.com.
